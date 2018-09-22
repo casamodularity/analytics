@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Modularity Smart Home Analytics
 
 You can use the [editor on GitHub](https://github.com/casamodularity/analytics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
