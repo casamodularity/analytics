@@ -36,6 +36,12 @@ node-red
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casamodularity/analytics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+
+## #Local authorities
+
+- we try to convince local authorities to use latest technologies in order to facilitate the connection with smart buildings
+- convince authorities to give access to open data (this is a right not a service)
+
 ### Support or Contact
 
 @banica
