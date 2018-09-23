@@ -9,24 +9,39 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Inspiration
 
-- Bulleted
-- List
+- AAL Research - Active Assisted Live http://www.aal-europe.eu/
+- Living Analytics Research Center https://larc.smu.edu.sg/
 
-1. Numbered
-2. List
+### What it does
 
-**Bold** and _Italic_ and `Code` text
+It monitors in real time different aspects of smart living solutions (data from sensors and connected devices) in order to understand human behaviour and to automate repetitive and time consuming tasks.
 
-[Link](url) and ![Image](src)
-```
+### How we built it
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Using Qlik Sense Desktop Edition and connecting and generating sample data and using statistical data that are existing on the internet.
 
-### Jekyll Themes
+It also connects live data from a smart metering solution to a DB2 database from where it takes data.
+
+### Challenges we ran into
+InnoEnergy - How to empower Public Authorities to support innovation ecosystem in order to promote entrepreneurship.
+
+### Accomplishments that we're proud of
+We've connected the smart metering solution to the Node-RUN service from IBM and we are proud that we've developed a working prototype in order to be soon ready to get real data to analyse human behaviour.
+
+### What we learned
+By analysing data in real time we are able to learn and understand what is important for people and also how it can be optimised the energy consume.
+
+### What's next for Smart Living Analytics
+Changing the structure of the software architecture by adding NoSQL support (MongoDB) in order to get all data from a single source (not hybrid sources as we do right now).
+
+Also making available to web.
+
+### Built With
+qlik
+sql
+node-red
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casamodularity/analytics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
